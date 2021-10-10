@@ -1,0 +1,25 @@
+[{
+    "author":{
+        "name": "Friedrich",
+        "surname": "Nietzsche"
+    },
+    "title": "Thus Spoke Zarathustra",
+    "year": "1885"
+},
+{
+    "author":{
+            "name": "Mikhail",
+            "surname": "Bulgakov"
+    },
+    "title": "The Master and Margarita",
+    "year": "1966"
+},
+{
+    "author":{
+        "name": "Fedor",
+        "surname":"Dostoevsky"
+    },
+    "title": "Notes from Underground",
+    "year": "1864"
+}
+]
