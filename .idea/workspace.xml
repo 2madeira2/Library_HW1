@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e6a05e9-da6e-454e-bb74-87820c0124c9" name="Default Changelist" comment="homework 1" />
+    <list default="true" id="0e6a05e9-da6e-454e-bb74-87820c0124c9" name="Default Changelist" comment="homework 1">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build/classes/java/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build/classes/java/main/FabricLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build/classes/java/main/FabricLibrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build/classes/java/main/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build/classes/java/main/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/FabricLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/FabricLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/Library.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +69,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1zH3EmD60m0XlA6CpnnOCxu1PZg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,6 +98,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
@@ -101,6 +128,10 @@
       <workItem from="1633819729209" duration="10120000" />
       <workItem from="1633831155657" duration="1823000" />
       <workItem from="1633833356763" duration="482000" />
+      <workItem from="1633833866038" duration="727000" />
+      <workItem from="1634051728912" duration="87000" />
+      <workItem from="1634051901021" duration="3000" />
+      <workItem from="1634070798265" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="homework 1">
       <created>1633832756617</created>

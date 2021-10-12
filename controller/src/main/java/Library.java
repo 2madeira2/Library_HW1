@@ -1,4 +1,6 @@
 import com.google.gson.Gson;
+import org.jetbrains.annotations.NotNull;
+
 import java.util.ArrayList;
 
 
@@ -6,12 +8,12 @@ public class Library {
     private ArrayList<Book> books = new ArrayList<>();
 
 
-    public void addBook(Book book){
+    public void addBook(@NotNull Book book){
         books.add(book);
     }
 
 
-    public void searchByAuthorName(String name){
+    public void searchByAuthorName(@NotNull String name){
         ArrayList<Book> requestBooks = new ArrayList<>();
         for (Book book : books){
             if((book.getAuthor().getName() + " " + book.getAuthor().getSurname()).equals(name)){

@@ -1,8 +1,9 @@
+import org.jetbrains.annotations.NotNull;
 import java.io.IOException;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws IOException {
+    public static void main(@NotNull String[] args) throws IOException {
         System.out.println("Please enter in the format first name then last name of the author whose books you are looking for, " +
                 "separated by a space.\nExample: Fedor Dostoevsky");
         Scanner reader = new Scanner(System.in);

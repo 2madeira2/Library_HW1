@@ -1,4 +1,6 @@
 import com.google.gson.Gson;
+import org.jetbrains.annotations.NotNull;
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -9,7 +11,7 @@ public class FabricLibrary {
     static Library lib = new Library();
 
 
-    public Library createLibraryFromFile(String path) throws IOException {
+    public Library createLibraryFromFile(@NotNull String path) throws IOException {
         Book[] books;
         StringBuilder line = new StringBuilder();
         try {
